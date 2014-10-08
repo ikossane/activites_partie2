@@ -1,0 +1,2 @@
+activites_partie2
+=================
